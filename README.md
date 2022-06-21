@@ -3,6 +3,7 @@
 | #    | Problems                                                     | Difficulty | Solutions                                                    | Key Points                      |
 | ---- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ------------------------------- |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum)             | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/1.Two-Sum.md) | Hash                            |
+| 15   | [3Sum](https://leetcode.com/problems/3sum/)                  | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/15.3sum.md) | Hash \| Sort \| Two Pointers    |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/36.Valid-Sudoku.md) | Hash \| Boolean Array           |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/49.Group-Anagrams.md) | Hash \| Letter Count Char Array |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/125.Valid-Palindrome.md) | Two Pointers                    |
