@@ -5,6 +5,7 @@
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum)             | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/1.Two-Sum.md) | Hash                            |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/36.Valid-Sudoku.md) | Hash \| Boolean Array           |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/49.Group-Anagrams.md) | Hash \| Letter Count Char Array |
+| 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/125.Valid-Palindrome.md) | Two Pointers                    |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/128.Longest-Consecutive-Sequence.md) | Hash \| Consecutive Number      |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/217.Contains-Duplicate.md) | Hash                            |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/238.Product-of-Array-Except-Self.md) | Arrays                          |
