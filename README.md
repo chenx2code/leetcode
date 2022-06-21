@@ -8,5 +8,6 @@
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/217.Contains-Duplicate.md) | Hash                            |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/238.Product-of-Array-Except-Self.md) | Arrays                          |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/242.Valid-Anagram.md) | Hash \| Letter Count Array      |
+| 271  | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒 | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/271.Encode-and-Decode-Strings.md) | Length of String                |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/347.Top-K-Frequent-Elements.md) | Min-heap                        |
 
