@@ -19,4 +19,5 @@
 | 271  | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒 | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/271.Encode-and-Decode-Strings.md) | Length of String                                             |
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/347.Top-K-Frequent-Elements.md) | Min-heap                                                     |
 | 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/424.Longest-Repeating-Character-Replacement.md) | Sliding Window \| Hash \| Letter Count Array \| History Max Character Count |
+| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/567.Permutation-in-String.md) | Sliding Window \| Letter Count Array                         |
 
