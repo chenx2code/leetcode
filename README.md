@@ -27,6 +27,7 @@
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/347.Top-K-Frequent-Elements.md) | Min-heap                                                     |
 | 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/424.Longest-Repeating-Character-Replacement.md) | Sliding Window \| Hash \| Letter Count Array \| History Max Character Count |
 | 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/567.Permutation-in-String.md) | Sliding Window \| Letter Count Array                         |
+| 704  | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/704.Binary-Search.md) | Binary Search                                                |
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/739.Daily-Temperatures.md) | Stack                                                        |
 | 853  | [Car Fleet](https://leetcode.com/problems/car-fleet/)        | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/853.Car-Fleet.md) | Stack \| Sort                                                |
 
