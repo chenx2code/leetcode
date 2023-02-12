@@ -13,6 +13,7 @@
 | 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/21.Merge-Two-Sorted-Lists.md) | Just Merge                                                   |
 | 22   | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/22.Generate-Parentheses.md) | Backtracking                                                 |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard       | [📝](https://github.com/chenx2code/leetcode/blob/master/23.Merge-k-Sorted-Lists.md) | Min-heap \| Merge Sort                                       |
+| 25   | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard       | [📝](https://github.com/chenx2code/leetcode/blob/master/25.Reverse-Nodes-in-k-Group.md) | Reverse Every Group And Reconnect \| Head Insertion to  Reverse List \| Dummy Node |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/33.Search-in-Rotated-Sorted-Array.md) | Binary Search                                                |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/36.Valid-Sudoku.md) | Hash \| Boolean Array                                        |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard       | [📝](https://github.com/chenx2code/leetcode/blob/master/42.Trapping-Rain-Water.md) | DP - Pre-compute Left Max and Right Max \| Two Pointers      |
@@ -33,6 +34,7 @@
 | 167  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/167.Two-Sum-II-Input-Array-Is-Sorted.md) | Two Pointers                                                 |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/206.Reverse-Linked-List.md) | Pointers                                                     |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/217.Contains-Duplicate.md) | Hash                                                         |
+| 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/226.Invert-Binary-Tree.md) | Recursion \| Breadth First Search With Queue                 |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/238.Product-of-Array-Except-Self.md) | Arrays                                                       |
 | 239  | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard       | [📝](https://github.com/chenx2code/leetcode/blob/master/239.Sliding-Window-Maximum.md) | Sliding Window \| Max-heap \| Monotonic Queue                |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy       | [📝](https://github.com/chenx2code/leetcode/blob/master/242.Valid-Anagram.md) | Hash \| Letter Count Array                                   |
@@ -46,4 +48,6 @@
 | 853  | [Car Fleet](https://leetcode.com/problems/car-fleet/)        | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/853.Car-Fleet.md) | Stack \| Sort                                                |
 | 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/875.Koko-Eating-Bananas.md) | Binary Search Eating Speed                                   |
 | 981  | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/981.Time-Based-Key-Value-Store.md) | Binary Search                                                |
+
+
 
