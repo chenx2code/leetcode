@@ -57,6 +57,7 @@
 | 853  | [Car Fleet](https://leetcode.com/problems/car-fleet/)        | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/853.Car-Fleet.md) | Stack \| Sort                                                |
 | 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/875.Koko-Eating-Bananas.md) | Binary Search Eating Speed                                   |
 | 981  | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/981.Time-Based-Key-Value-Store.md) | Binary Search                                                |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium     | [📝](https://github.com/chenx2code/leetcode/blob/master/1448.Count-Good-Nodes-in-Binary-Tree.md) | DFS + max value                                              |
 
 
 
